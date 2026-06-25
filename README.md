@@ -1,2 +1,5 @@
 # Learning-Journal
 A career switchers journey from Sales to the Cloud
+This Repository is to journal my journey as I transition from my current job in sales to aim for a role as a Cloud Engineer. 
+Having spent some time deliberating what I want to do with the rest of my working career an interest in the cloud and security has my attention. I am someone who enjoys learning and I have felt at a stalemate for some time in my current role. A career in the cloud offers an opportunity to be constantly learning and keeping up with the latest features and AI enhancements which I find really exciting.
+On a personal level I have invested in the stock market for the last 3 years and my main themes are AI, Cybersecurity, Big Data & Semiconductors. As you can see my natural interests lie in 3 areas here that also feature in the Cloud. If my personal passions align with the work I do as a career a certain saying comes to mind "Choose a job you love, and you will never have to work a day in your life", that sounds pretty good to me!
