@@ -1,0 +1,73 @@
+Below is a brief outline of subjects covered in this course that i studied over a 3 month period to get familiar with the Fundamentals to establish a base foundation of knowledge before proceeding.
+
+The course included:
+
+ 1. Important IT Concepts
+      Computing devices & hardware basics
+      Software and operating systems overview
+      Types of software (application, etc.)
+
+  2. Servers and Virtualization
+      Physical servers
+      Virtualization concepts
+      AWS account setup & walkthrough (hands-on lab)
+
+  3. Data Center & Cloud Computing Overview
+      Data center fundamentals
+      Cloud computing basics
+      Cloud service models (IaaS, PaaS, SaaS)
+      Deployment models (public, private, hybrid)
+      Choosing a cloud provider
+
+4. Networking Fundamentals
+      What is a network
+      Traffic flow types
+      Wired & wireless devices
+      Network cabling
+      Data center networks  
+      Campus area networks
+      The internet
+
+5. IP Addressing Deep Dive
+      IP address need, structure & formats
+      Binary & decimal conversions
+      Networks & hosts
+      Subnet masks & subnetting
+      Assignment - Subnet mask assignments
+      Assignment - Subnetting assignments
+      IP classes & ranges
+      Public vs private IPs
+      Assignment - IP scheme design assignments   
+
+  6. IP Routing & AWS Networking
+      How IP routing works
+      Packet structure
+      AWS global infrastructure
+      VPC, subnets, route tables
+      Internet gateway & NAT
+      AWS - AWS networking demos - Public subnets, Private subets and NAT in AWS VPC
+
+  7. OSI & TCP/IP Models + Protocols
+      OSI model & layers
+      TCP/IP model
+      Core protocols (ICMP, SSH, HTTP/HTTPS)
+      Packet anatomy
+      SSH demos (Windows/Linux)
+
+  8. Cybersecurity & Network Security Fundamentals
+      Cybersecurity basics
+      Firewalls & AWS security groups
+      Network ACLs (NACLs)
+      Encryption
+      VPN fundamentals
+      AWS - VPC security groups & SSH/ICMP/HTTP testing
+
+  9. DNS, Databases & Monitoring
+      DNS (Domain Name System)
+      Monitoring, alerting, logging
+      Databases & SQL basics
+      Architecture diagramming
+
+  10. Additional Sections
+      Linux & Bash basics
+      DevOps tools overview (Git, Docker, Kubernetes, Terraform)
