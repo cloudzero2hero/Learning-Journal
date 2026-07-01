@@ -1,0 +1,4 @@
+Study session 1 - AWS account & budgeting
+	Set up an AWS account, enabled MFA on the root user, created a separate IAM admin user for daily use. Set up an AWS budget alert for $5 per month with notifications 	at 85% actual usage, 100% forecasted usage & 100% actual usage
+		- In order to secure an AWS account it is recommended to use MFA to add an additional security step to the log in process. 
+		- Setting up a budget has cost safety at the forefront where notifications are sent at various custom thresholds of Cost. Alternatively this can also be done via usage, savings and reservation plans
