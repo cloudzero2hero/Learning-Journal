@@ -5,3 +5,5 @@ Having spent some time deliberating what I want to do with the rest of my workin
 On a personal level I have invested in the stock market for the last 3 years and my main themes are AI, Cybersecurity, Big Data & Semiconductors. As you can see my natural interests lie in 3 areas here that also feature in the Cloud. If my personal passions align with the work I do as a career a certain saying comes to mind "Choose a job you love, and you will never have to work a day in your life", that sounds pretty good to me! 
 
 Updating file to check push changes to GitHub!
+
+Creating new branch and pull request for update
